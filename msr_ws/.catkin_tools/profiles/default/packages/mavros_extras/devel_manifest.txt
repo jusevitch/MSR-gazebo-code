@@ -1,0 +1,7 @@
+mavros/mavros_extras
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/lib/libmavros_extras.so /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/libmavros_extras.so
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/lib/mavros_extras/copter_visualization /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/mavros_extras/copter_visualization
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/mavros_extras/servo_state_publisher
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/mavros_extras.pc

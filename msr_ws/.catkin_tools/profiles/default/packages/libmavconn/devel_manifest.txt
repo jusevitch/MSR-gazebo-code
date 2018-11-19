@@ -1,0 +1,6 @@
+mavros/libmavconn
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/libmavconn/lib/libmavconn.so /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/libmavconn.so
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/libmavconn.pc

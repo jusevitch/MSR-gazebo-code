@@ -1,0 +1,45 @@
+<launch>
+	<!-- vim: set ft=xml noet : -->
+	<!-- MAVROS launch file for AION R1 UGV -->
+
+  <arg name="fcu_url" default="udp://127.0.0.1:14551@14555" />
+	<arg name="gcs_url" default="" />
+	<arg name="tgt_system" default="1" />
+	<arg name="tgt_component" default="1" />
+	<arg name="log_output" default="screen" />
+	<arg name="fcu_protocol" default="v2.0" />
+	<arg name="respawn_mavros" default="false" />
+
+	<arg name="pluginlists_yaml" value="$(find mavros)/launch/apm_pluginlists.yaml" />
+	<arg name="config_yaml" value="$(find mavros)/launch/apm_config.yaml" />
+
+        <node pkg="mavros" type="mavros_node" name="mavros" required="$(eval not respawn_mavros)" clear_params="true" output="$(arg log_output)" respawn="$(arg respawn_mavros)">
+                <remap from="mavros/setpoint_velocity/cmd_vel_unstamped" to="/cmd_vel" />
+                <param name="fcu_url" value="$(arg fcu_url)" />
+                <param name="gcs_url" value="$(arg gcs_url)" />
+                <param name="target_system_id" value="$(arg tgt_system)" />
+                <param name="target_component_id" value="$(arg tgt_component)" />
+                <param name="fcu_protocol" value="$(arg fcu_protocol)" />
+
+                <!-- load blacklist, config -->
+                <rosparam command="load" file="$(arg pluginlists_yaml)" />
+                <rosparam command="load" file="$(arg config_yaml)" />
+        </node>
+
+  <!-- Joystick Interface Launch  -->
+  <!-- <arg name="joy_config" default="ps3" />
+  <arg name="joy_dev" default="/dev/input/js0" />
+  <arg name="config_filepath" default="$(find teleop_twist_joy)/config/$(arg joy_config).config.yaml" />
+
+  <rosparam command="load" file="$(find r1_control)/config/teleop.yaml" />
+
+      	<node pkg="joy" type="joy_node" name="joy_node">
+          	<param name="dev" value="$(arg joy_dev)" />
+          	<param name="deadzone" value="0.3" />
+          	<param name="autorepeat_rate" value="20" />
+        </node>
+
+        <node pkg="teleop_twist_joy" name="teleop_twist_joy" type="teleop_node">
+        </node> -->
+
+</launch>
