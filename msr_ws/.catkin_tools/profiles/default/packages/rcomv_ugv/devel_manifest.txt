@@ -1,8 +1,0 @@
-RCOMV/rcomv_ugv
-/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_ugv/share/rcomv_ugv/cmake/rcomv_ugvConfig-version.cmake /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rcomv_ugv/cmake/rcomv_ugvConfig-version.cmake
-/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_ugv/share/rcomv_ugv/cmake/rcomv_ugvConfig.cmake /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rcomv_ugv/cmake/rcomv_ugvConfig.cmake
-/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_ugv/lib/rcomv_ugv/pidctrl /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rcomv_ugv/pidctrl
-/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_ugv/lib/rcomv_ugv/circular_path_publisher /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rcomv_ugv/circular_path_publisher
-/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_ugv/lib/rcomv_ugv/move_base_square /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rcomv_ugv/move_base_square
-/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_ugv/lib/rcomv_ugv/simple_navigation_goals /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rcomv_ugv/simple_navigation_goals
-/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_ugv/lib/pkgconfig/rcomv_ugv.pc /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rcomv_ugv.pc
