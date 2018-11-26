@@ -12,6 +12,7 @@
 	<arg name="x" default = "0" />
 	<arg name="y" default = "0" />
 	<arg name="z" default = "0.1" />
+        <arg name="yaw" default="0.0" />
 	<arg name="n" default="15" />
 	<arg name="k" default="7" />
 	<arg name="idx" default="1" />
@@ -52,6 +53,7 @@
       		<arg name="x" value="$(arg x)"/>
       		<arg name="y" value="$(arg y)"/>
 	        <arg name="z" value="$(arg z)"/>
+		<arg name="yaw" value="$(arg yaw)" />
     	</include>
 
       	<node name="tf_footprint_base" pkg="tf" type="static_transform_publisher"

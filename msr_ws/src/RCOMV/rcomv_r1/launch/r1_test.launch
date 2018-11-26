@@ -2,7 +2,7 @@
   <launch>
 
   <arg name="ugv_name" default="r1_sim"/>
-  <arg name="world_name" default="small_terrain"/>
+  <arg name="world_name" default="basic"/>
   <arg name="enable_logging" default="false" />
   <arg name="enable_ground_truth" default="true" />
   <arg name="log_file" default="$(arg ugv_name)" />
@@ -24,13 +24,14 @@
       <arg name="x" value="1"/>
       <arg name="y" value="1"/>
       <arg name="z" value="0.1"/>
+      <arg name="yaw" value="1.57" />
 
-      <arg name="goal_x" value="1" />
-      <arg name="goal_y" value="5" />
+      <arg name="goal_x" value="4" />
+      <arg name="goal_y" value="1" />
       <arg name="Kp1" value="0.4"/> <arg name="Ki1" value="0.0"/> <arg name="Kd1" value="0.1"/>
       <arg name="Kp2" value="4.0"/> <arg name="Ki2" value="0.0"/> <arg name="Kd2" value="1.5"/>
 
-      <arg name="path_node" value="true" />
+      <arg name="path_node" value="false" />
       <arg name="radius" value="3"/>
       <arg name="cx" value="-1" />
       <arg name="cy" value="-1" />
