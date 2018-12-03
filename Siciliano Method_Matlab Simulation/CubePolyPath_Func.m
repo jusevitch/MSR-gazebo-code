@@ -31,7 +31,7 @@ function [position, velocity, acceleration] = CubePolyPath_Func(qi, qf, k, T)
     end
 
     % accelerations
-    %acceleration = zeros(steps,2);
+    % acceleration = zeros(steps,2);
     acceleration.x = @(t) 6*s(t)*xf - 6*(s(t)-1)*xi + alpha.x*(6*s(t)-2) + beta.x*(6*s(t)-4);
     acceleration.y = @(t) 6*s(t)*yf - 6*(s(t)-1)*yi + alpha.y*(6*s(t)-2) + beta.y*(6*s(t)-4);
 
