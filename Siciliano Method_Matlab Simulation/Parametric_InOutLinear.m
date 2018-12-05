@@ -17,7 +17,7 @@ k = r*4;
 
 % half circle -- part 2
 center = [0,0];
-Radius = [r,r];
+Radius = [r,r/2];
 [path1, vel1, accel1] = ParametricPath_Func(center, Radius, 2*pi/T, T, 'circular');
 [path2, vel2, accel2] = ParametricPath_Func(center, Radius, 2*pi/T, T, 'eightshape');
 
@@ -67,7 +67,7 @@ end
 vd = @(t) sqrt(vel.x(t).^2 + vel.y(t).^2);
 wd = @(t) (accel.y(t).*vel.x(t) - accel.x(t).*vel.y(t)) ./ (vel.x(t).^2 + vel.y(t).^2);
 % 
-wd = @(t) 0*t + 2*pi/T;
+%wd = @(t) 0*t + 2*pi/T;
 
 % a point B along the sagitta laxis of the unicycle at distance |b|
 b = 0.05;
@@ -81,8 +81,8 @@ vy1d = @(t) cos(path.theta(t)) * vd(t) - b*sin(path.theta(t)) * wd(t);
 vy2d = @(t) sin(path.theta(t)) * vd(t) + b*cos(path.theta(t)) * wd(t);
 
 % linear control gain
-k1 = 4;
-k2 = 4;
+k1 = 0.5;
+k2 = 0.5;
 
 % max velocity
 vmax = 6;
@@ -106,7 +106,8 @@ v = zeros(1,steps);
 w = zeros(1,steps);
 
 X(:,1) = x0;
-error(:,1) = [y1d(0) y2d(0)]' - x0(1:2);
+%theta0 = X(3,1);
+%error(:,1) = [y1d(0) y2d(0)]' - (x0(1:2)+b*[cos(theta0); sin(theta0)]);
 
 for i = 1:steps-1
    % current time and next time steps
@@ -115,6 +116,9 @@ for i = 1:steps-1
    
    % current heading angle
    theta = X(3,i);
+   
+   % compute errors
+   error(:,i) = [y1d(t) y2d(t)]' - (X(1:2,i)+b*[cos(theta); sin(theta)]);
    
    % control inputs of the output dynamics (linear)
    u1 = vy1d(t) + k1 * error(1,i);
@@ -142,10 +146,7 @@ for i = 1:steps-1
    if X(3,i+1) < -pi
        X(3,i+1) = X(3,i+1) + 2*pi;
    end
-   
-   % update errors
-   error(:,i+1) = [y1d(t_next) y2d(t_next)]' - X(1:2,i+1);
-   
+    
 end
 
 % plot
@@ -158,8 +159,8 @@ figure(5)
 subplot(5,1,1); plot(tspan,X(1,plot_idx)); hold on; plot(tspan,path.x(tspan),'--'); hold off; title('x');
 subplot(5,1,2); plot(tspan,X(2,plot_idx)); hold on; plot(tspan,path.y(tspan),'--'); hold off; title('y');
 subplot(5,1,3); plot(tspan,180/pi*X(3,plot_idx)); hold on; plot(tspan,180/pi*path.theta(tspan),'--'); hold off; title('\theta');
-subplot(5,1,4); plot(tspan, v); hold on; plot(tspan,tspan*0+vmax, 'r--', tspan,tspan*0-vmax,'r--');  plot(tspan, vd(tspan),'--'); hold off; title('velocity');
-subplot(5,1,5); plot(tspan, w); hold on; plot(tspan,tspan*0+wmax, 'r--', tspan,tspan*0-wmax,'r--');  plot(tspan, wd(tspan),'--'); hold off; title('angular velocity');
+subplot(5,1,4); plot(tspan, v); hold on; plot(tspan,tspan*0+vmax, 'r--', tspan,tspan*0-vmax,'r--');  plot(tspan, vd(tspan),'k--'); hold off; title('velocity');
+subplot(5,1,5); plot(tspan, w); hold on; plot(tspan,tspan*0+wmax, 'r--', tspan,tspan*0-wmax,'r--');  plot(tspan, wd(tspan),'k--'); hold off; title('angular velocity');
 
 figure(6)
 subplot(4,1,1); plot(tspan,error(1,:)); title('x error');

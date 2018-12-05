@@ -39,7 +39,7 @@ function [path, velocity, acceleration] = ParametricPath_Funct(centers, Radius, 
        path.theta = @(t) atan2(velocity.y(t), velocity.x(t));  % heading angle
        
        % relerence acceleration
-       acceleration.x = @(t) -4*R1*wd^2*sin(wd*t);
+       acceleration.x = @(t) -4*R1*wd^2*sin(2*wd*t);
        acceleration.y = @(t) -R2*wd^2*sin(wd*t);
     end
 end

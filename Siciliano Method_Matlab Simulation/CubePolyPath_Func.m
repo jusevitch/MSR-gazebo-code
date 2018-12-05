@@ -16,14 +16,14 @@ function [position, velocity, acceleration] = CubePolyPath_Func(qi, qf, k, T)
     beta.y = k*sin(thetai) + 3*yi;
     
     % positions
-    %position = zeros(steps,3);
-    position.x = @(t) s(t).^3*xf - (s(t)-1).^3*xi + alpha.x*s(t).^2.*(s(t)-1) + beta.x*s(t).*(s(t)-1).^2;
-    position.y = @(t) s(t).^3*yf - (s(t)-1).^3*yi + alpha.y*s(t).^2.*(s(t)-1) + beta.y*s(t).*(s(t)-1).^2;
+    % position = zeros(steps,3);
+    position.x = @(t) (s(t).^3*xf - (s(t)-1).^3*xi + alpha.x*s(t).^2.*(s(t)-1) + beta.x*s(t).*(s(t)-1).^2);
+    position.y = @(t) (s(t).^3*yf - (s(t)-1).^3*yi + alpha.y*s(t).^2.*(s(t)-1) + beta.y*s(t).*(s(t)-1).^2);
 
     % velocities
     %velocity = zeros(steps,2);
-    velocity.x = @(t) 3*s(t).^2*xf - 3*(s(t)-1).^2*xi + alpha.x*(2*s(t).*(s(t)-1) + s(t).^2) + beta.x*((s(t)-1).^2 + 2*s(t).*(s(t)-1));
-    velocity.y = @(t) 3*s(t).^2*yf - 3*(s(t)-1).^2*yi + alpha.y*(2*s(t).*(s(t)-1) + s(t).^2) + beta.y*((s(t)-1).^2 + 2*s(t).*(s(t)-1));
+    velocity.x = @(t) 1/T * (3*s(t).^2*xf - 3*(s(t)-1).^2*xi + alpha.x*(2*s(t).*(s(t)-1) + s(t).^2) + beta.x*((s(t)-1).^2 + 2*s(t).*(s(t)-1)));
+    velocity.y = @(t) 1/T * (3*s(t).^2*yf - 3*(s(t)-1).^2*yi + alpha.y*(2*s(t).*(s(t)-1) + s(t).^2) + beta.y*((s(t)-1).^2 + 2*s(t).*(s(t)-1)));
     if (k > 0)
         position.theta = @(t) atan2(velocity.y(t), velocity.x(t));  % heading angle
     else
@@ -31,8 +31,8 @@ function [position, velocity, acceleration] = CubePolyPath_Func(qi, qf, k, T)
     end
 
     % accelerations
-    % acceleration = zeros(steps,2);
-    acceleration.x = @(t) 6*s(t)*xf - 6*(s(t)-1)*xi + alpha.x*(6*s(t)-2) + beta.x*(6*s(t)-4);
-    acceleration.y = @(t) 6*s(t)*yf - 6*(s(t)-1)*yi + alpha.y*(6*s(t)-2) + beta.y*(6*s(t)-4);
+    %acceleration = zeros(steps,2);
+    acceleration.x = @(t) (1/T)^2 * (6*s(t)*xf - 6*(s(t)-1)*xi + alpha.x*(6*s(t)-2) + beta.x*(6*s(t)-4));
+    acceleration.y = @(t) (1/T)^2 * (6*s(t)*yf - 6*(s(t)-1)*yi + alpha.y*(6*s(t)-2) + beta.y*(6*s(t)-4));
 
 end
