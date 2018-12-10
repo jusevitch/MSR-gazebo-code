@@ -2,10 +2,10 @@
 % method 3: Cubic Polynomial, input/output linearization
 
 % initial/final configurations and total time
-r = 2; % radius
+r = 10; % radius
 qi = [r 0 pi/2];
-qf = [-r -r pi*3/2+pi/4];
-T = 10; % sec
+qf = [-r 0 pi/2];
+T = 40; % sec
 tspan = linspace(0,T, 1000);
 
 % define parameters of the polynomials
@@ -66,10 +66,10 @@ k1 = 0.5;
 k2 = 0.5;
 
 % initial position
-x0 = qi' + r*[0.5 -0.5 0.30]';
+x0 = qi' + 0.1*randn(3,1);
 
 % max velocity
-vmax = 6;
+vmax = 2;
 wmax = 4;
 
 % simulation
