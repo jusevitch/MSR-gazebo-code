@@ -1,0 +1,8 @@
+prefix=/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install
+
+Name: rcomv_uav
+Description: Description of rcomv_uav
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install/lib 
+Requires: gazebo_msgs geometry_msgs mav_msgs roscpp sensor_msgs

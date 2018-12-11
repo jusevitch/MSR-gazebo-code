@@ -1,0 +1,17 @@
+#!/usr/bin/env sh
+# generated from catkin/python/catkin/environment_cache.py
+
+# based on a snapshot of the environment before and after calling the setup script
+# it emulates the modifications of the setup script without recurring computations
+
+# new environment variables
+
+# modified environment variables
+export CMAKE_PREFIX_PATH="/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu:/opt/gurobi801/linux64/lib"
+export PATH="/opt/ros/kinetic/bin:/home/dasc/bin:/home/dasc/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/gurobi801/linux64/bin"
+export PKG_CONFIG_PATH="/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig"
+export PWD="/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/build/catkin_tools_prebuild"
+export PYTHONPATH="/opt/ros/kinetic/lib/python2.7/dist-packages:/home/dasc/crazyswarm/ros_ws/src/crazyflie_ros/crazyflie_driver/srv:/home/dasc/crazyswarm/ros_ws/src/crazyflie_ros/crazyflie_driver/msg:/home/dasc/crazyswarm/ros_ws/src/crazyflie_ros/crazyflie_driver"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/build/catkin_tools_prebuild:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/mav_comm/mav_comm:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/mav_comm/mav_msgs:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/mav_comm/mav_planning_msgs:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/mavlink:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/mavros/libmavconn:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/mavros/mavros_msgs:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/mavros/mavros:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/mavros/mavros_extras:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/r1_ugv_sim/r1_description:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/r1_ugv_sim/r1_gazebo:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/r1_ugv_sim/r1_teleop:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/roboclaw_ros/roboclaw_node:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/aion_r1/r1_control:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/rotors_simulator/rotors_comm:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/rotors_simulator/rotors_control:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/rotors_simulator/rotors_description:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/rotors_simulator/rotors_evaluation:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/rotors_simulator/rotors_gazebo_plugins:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_uav:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/rotors_simulator/rotors_gazebo:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/rotors_simulator/rotors_joy_interface:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/rotors_simulator/rotors_simulator:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/rotors_simulator/rqt_rotors:/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/mavros/test_mavros:/opt/ros/kinetic/share"

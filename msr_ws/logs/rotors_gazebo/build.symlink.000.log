@@ -1,0 +1,24 @@
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rotors_gazebo.pc
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rotors_gazebo/waypoint_publisher_file
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rotors_gazebo/hovering_example
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rotors_gazebo/waypoint_publisher
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_gazebo/waypoint_publisher)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher_file, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_gazebo/waypoint_publisher_file)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_gazebo/hovering_example)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_gazebo/lib/pkgconfig/rotors_gazebo.pc, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rotors_gazebo.pc)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake)
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_gazebo/waypoint_publisher
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_gazebo/waypoint_publisher_file
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_gazebo/hovering_example
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rotors_gazebo.pc
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+Already unlinked: {}

@@ -1,0 +1,8 @@
+prefix=/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install
+
+Name: rotors_comm
+Description: Description of rotors_comm
+Version: 2.1.1
+Cflags: -I/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install/include
+Libs: -L/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install/lib 
+Requires: message_runtime

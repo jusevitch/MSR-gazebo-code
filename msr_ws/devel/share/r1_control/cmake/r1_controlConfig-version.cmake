@@ -1,0 +1,1 @@
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_control/share/r1_control/cmake/r1_controlConfig-version.cmake

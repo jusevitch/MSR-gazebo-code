@@ -1,0 +1,16 @@
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rotors_joy_interface/rotors_joy_interface
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rotors_joy_interface.pc
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig-version.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_joy_interface/lib/rotors_joy_interface/rotors_joy_interface, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_joy_interface/rotors_joy_interface)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_joy_interface/lib/pkgconfig/rotors_joy_interface.pc, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rotors_joy_interface.pc)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_joy_interface/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_joy_interface/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig-version.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig-version.cmake)
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_joy_interface/rotors_joy_interface
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rotors_joy_interface.pc
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig-version.cmake
+Already unlinked: {}

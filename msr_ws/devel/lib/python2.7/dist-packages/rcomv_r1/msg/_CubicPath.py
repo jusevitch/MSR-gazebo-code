@@ -1,0 +1,1 @@
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_r1/lib/python2.7/dist-packages/rcomv_r1/msg/_CubicPath.py

@@ -1,0 +1,4 @@
+r1_ugv_sim/r1_description
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_description/lib/pkgconfig/r1_description.pc /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/r1_description.pc
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_description/share/r1_description/cmake/r1_descriptionConfig-version.cmake /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/r1_description/cmake/r1_descriptionConfig-version.cmake
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_description/share/r1_description/cmake/r1_descriptionConfig.cmake /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/r1_description/cmake/r1_descriptionConfig.cmake

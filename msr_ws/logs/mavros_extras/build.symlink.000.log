@@ -1,0 +1,24 @@
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/libmavros_extras.so
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/mavros_extras/copter_visualization
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/mavros_extras/servo_state_publisher
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/mavros_extras.pc
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/lib/libmavros_extras.so, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/libmavros_extras.so)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/mavros_extras.pc)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/mavros_extras/servo_state_publisher)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/lib/mavros_extras/copter_visualization, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/mavros_extras/copter_visualization)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake)
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/libmavros_extras.so
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/mavros_extras.pc
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/mavros_extras/servo_state_publisher
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/mavros_extras/copter_visualization
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+Already unlinked: {}

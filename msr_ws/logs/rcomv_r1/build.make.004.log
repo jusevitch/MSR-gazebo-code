@@ -1,0 +1,97 @@
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target mav_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target mav_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target mav_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  8%] Built target path_publisher
+[ 16%] Built target path_wmsr_node
+[ 25%] Built target wmsr_node
+[ 25%] Built target _rcomv_r1_generate_messages_check_deps_CubicPath
+[ 33%] Built target pid_controller
+[35m[1mScanning dependencies of target InputOutputLin_Controller[0m
+[ 33%] Built target _rcomv_r1_generate_messages_check_deps_ParametricPath
+[ 41%] Built target switch
+[ 54%] Built target rcomv_r1_generate_messages_eus
+[ 58%] [32mBuilding CXX object CMakeFiles/InputOutputLin_Controller.dir/src/InputOutputLin_Controller.cpp.o[0m
+[ 66%] Built target rcomv_r1_generate_messages_nodejs
+[ 75%] Built target rcomv_r1_generate_messages_cpp
+[ 83%] Built target rcomv_r1_generate_messages_lisp
+[ 95%] Built target rcomv_r1_generate_messages_py
+[ 95%] Built target rcomv_r1_generate_messages
+In file included from [01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:2:0[m[K:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.h:78:8:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ at end of member declaration
+   bool odd_cycle
+[01;32m[K        ^[m[K
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:[m[K In constructor ‘[01m[KInOutLinController::InOutLinController()[m[K’:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:36:3:[m[K [01;31m[Kerror: [m[K‘[01m[Keven_cycle[m[K’ was not declared in this scope
+   even_cycle = false;
+[01;32m[K   ^[m[K
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:[m[K In member function ‘[01m[Kvoid InOutLinController::trajectory_subCallback(const ConstPtr&)[m[K’:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:93:23:[m[K [01;31m[Kerror: [m[K‘[01m[Keven_cycle[m[K’ was not declared in this scope
+   if (endless_flag && even_cycle) {
+[01;32m[K                       ^[m[K
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:[m[K In member function ‘[01m[Kvoid InOutLinController::pubCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:190:9:[m[K [01;31m[Kerror: [m[K‘[01m[Keven_cycle[m[K’ was not declared in this scope
+         even_cycle = ~even_cycle;
+[01;32m[K         ^[m[K
+CMakeFiles/InputOutputLin_Controller.dir/build.make:62: recipe for target 'CMakeFiles/InputOutputLin_Controller.dir/src/InputOutputLin_Controller.cpp.o' failed
+make[2]: *** [CMakeFiles/InputOutputLin_Controller.dir/src/InputOutputLin_Controller.cpp.o] Error 1
+CMakeFiles/Makefile2:1664: recipe for target 'CMakeFiles/InputOutputLin_Controller.dir/all' failed
+make[1]: *** [CMakeFiles/InputOutputLin_Controller.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

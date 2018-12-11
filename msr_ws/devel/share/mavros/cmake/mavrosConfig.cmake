@@ -1,0 +1,1 @@
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake

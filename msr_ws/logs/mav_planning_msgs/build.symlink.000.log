@@ -1,0 +1,296 @@
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/__init__.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_Point2D.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PointCloudWithPose.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolynomialSegment4D.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory4D.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_Polygon2D.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolygonWithHoles.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/__init__.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolygonWithHolesStamped.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/srv/_PlannerService.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/srv/__init__.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/srv/_PolygonService.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/mav_planning_msgs.pc
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PlannerService.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonServiceRequest.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolynomialTrajectory4D.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonWithHoles.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/Point2D.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonService.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolynomialSegment4D.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/Polygon2D.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PlannerServiceResponse.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonServiceResponse.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PlannerServiceRequest.h
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig-version.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-extras.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-paths.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/_index.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/_index.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHoles.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PointCloudWithPose.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/Polygon2D.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/Point2D.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment4D.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/srv/_index.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/srv/PlannerService.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/srv/PolygonService.js
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment4D.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHoles.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/Point2D.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Polygon2D.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/mav_planning_msgs-msg.asd
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PointCloudWithPose.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHolesStamped.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PointCloudWithPose.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/Polygon2D.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHoles.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Point2D.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory4D.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment4D.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PolygonService.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/mav_planning_msgs-srv.asd
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/PolygonService.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PlannerService.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/PlannerService.lisp
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/manifest.l
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/Point2D.l
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/Polygon2D.l
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.l
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PointCloudWithPose.l
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.l
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment4D.l
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHoles.l
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/srv/PlannerService.l
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/srv/PolygonService.l
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolynomialSegment4D.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolynomialSegment4D.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PlannerServiceResponse.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PlannerServiceResponse.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/Polygon2D.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/Polygon2D.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolygonWithHoles.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonWithHoles.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolygonService.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonService.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PointCloudWithPose.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/Point2D.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/Point2D.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolynomialTrajectory4D.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolynomialTrajectory4D.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolygonServiceResponse.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonServiceResponse.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolygonWithHolesStamped.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolygonServiceRequest.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonServiceRequest.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PlannerServiceRequest.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PlannerServiceRequest.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PlannerService.h, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PlannerService.h)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/__init__.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/__init__.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/msg/_Point2D.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_Point2D.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PointCloudWithPose.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PointCloudWithPose.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolygonWithHolesStamped.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolygonWithHolesStamped.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/msg/_Polygon2D.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_Polygon2D.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolynomialSegment4D.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolynomialSegment4D.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory4D.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory4D.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolygonWithHoles.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolygonWithHoles.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/msg/__init__.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/__init__.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/srv/_PolygonService.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/srv/_PolygonService.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/srv/_PlannerService.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/srv/_PlannerService.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/python2.7/dist-packages/mav_planning_msgs/srv/__init__.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/srv/__init__.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/lib/pkgconfig/mav_planning_msgs.pc, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/mav_planning_msgs.pc)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/manifest.l, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/manifest.l)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/Point2D.l, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/Point2D.l)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PointCloudWithPose.l, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PointCloudWithPose.l)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHoles.l, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHoles.l)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.l, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.l)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.l, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.l)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/Polygon2D.l, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/Polygon2D.l)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment4D.l, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment4D.l)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/srv/PolygonService.l, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/srv/PolygonService.l)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/srv/PlannerService.l, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/srv/PlannerService.l)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/Point2D.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/Point2D.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PointCloudWithPose.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PointCloudWithPose.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHoles.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHoles.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHolesStamped.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHolesStamped.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_Polygon2D.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Polygon2D.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/Polygon2D.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/Polygon2D.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment4D.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment4D.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory4D.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory4D.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment4D.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment4D.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_Point2D.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Point2D.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/mav_planning_msgs-msg.asd, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/mav_planning_msgs-msg.asd)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHoles.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHoles.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PointCloudWithPose.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PointCloudWithPose.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/mav_planning_msgs-srv.asd, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/mav_planning_msgs-srv.asd)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/PolygonService.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/PolygonService.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/_package_PolygonService.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PolygonService.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/_package_PlannerService.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PlannerService.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/_package.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/PlannerService.lisp, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/PlannerService.lisp)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/_index.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/_index.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/Point2D.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/Point2D.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PointCloudWithPose.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PointCloudWithPose.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/_index.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/_index.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/Polygon2D.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/Polygon2D.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHoles.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHoles.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment4D.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment4D.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/srv/_index.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/srv/_index.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/srv/PlannerService.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/srv/PlannerService.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/srv/PolygonService.js, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/srv/PolygonService.js)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/mav_planning_msgs/cmake/mav_planning_msgsConfig-version.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig-version.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/mav_planning_msgs/cmake/mav_planning_msgsConfig.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-paths.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-paths.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/mav_planning_msgs/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-extras.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-extras.cmake)
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolynomialSegment4D.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PlannerServiceResponse.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/Polygon2D.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonWithHoles.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonService.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PointCloudWithPose.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/Point2D.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolynomialTrajectory4D.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonServiceResponse.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PolygonServiceRequest.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PlannerServiceRequest.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/include/mav_planning_msgs/PlannerService.h
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/__init__.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_Point2D.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PointCloudWithPose.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolygonWithHolesStamped.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_Polygon2D.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolynomialSegment4D.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory4D.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/_PolygonWithHoles.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/srv/_PolygonService.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/srv/_PlannerService.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/mav_planning_msgs/srv/__init__.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/mav_planning_msgs.pc
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/manifest.l
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/Point2D.l
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PointCloudWithPose.l
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHoles.l
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.l
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.l
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/Polygon2D.l
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment4D.l
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/srv/PolygonService.l
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/roseus/ros/mav_planning_msgs/srv/PlannerService.l
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/Point2D.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PointCloudWithPose.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHoles.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHolesStamped.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Polygon2D.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/Polygon2D.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment4D.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory4D.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment4D.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Point2D.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/mav_planning_msgs-msg.asd
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHoles.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PointCloudWithPose.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/mav_planning_msgs-srv.asd
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/PolygonService.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PolygonService.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PlannerService.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/common-lisp/ros/mav_planning_msgs/srv/PlannerService.lisp
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/_index.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/Point2D.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PointCloudWithPose.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/Polygon2D.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHoles.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment4D.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/srv/_index.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/srv/PlannerService.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/gennodejs/ros/mav_planning_msgs/srv/PolygonService.js
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-extras.cmake
+Already unlinked: {}

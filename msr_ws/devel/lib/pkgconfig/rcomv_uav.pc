@@ -1,0 +1,1 @@
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/pkgconfig/rcomv_uav.pc

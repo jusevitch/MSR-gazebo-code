@@ -1,0 +1,8 @@
+prefix=/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel
+exec_prefix=/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel
+includedir=${prefix}/include
+
+Name: mavlink
+Description: MAVLink micro air vehicle marshalling / communication library
+Version: 2018.10.10
+Cflags: -I${includedir}

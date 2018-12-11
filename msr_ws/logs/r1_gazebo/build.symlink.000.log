@@ -1,0 +1,7 @@
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/r1_gazebo/wmsr_node
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/r1_gazebo/switch
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/r1_gazebo/pid_controller
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/r1_gazebo/path_publisher
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/r1_gazebo.pc
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/r1_gazebo/cmake/r1_gazeboConfig-version.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/r1_gazebo/cmake/r1_gazeboConfig.cmake

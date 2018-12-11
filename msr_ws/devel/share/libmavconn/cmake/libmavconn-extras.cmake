@@ -1,0 +1,1 @@
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake

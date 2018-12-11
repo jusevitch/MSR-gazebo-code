@@ -1,0 +1,40 @@
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rcomv_uav.pc
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/circular_path_publisher
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/wmsr_node
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/switch
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/waypoint_publisher_file
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/hovering_example
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/waypoint_publisher
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/switch2
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rcomv_uav/cmake/rcomv_uavConfig-version.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rcomv_uav/cmake/rcomv_uavConfig.cmake
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/wmsr_node, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/wmsr_node)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/waypoint_publisher, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/waypoint_publisher)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/circular_path_publisher, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/circular_path_publisher)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/waypoint_publisher_file, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/waypoint_publisher_file)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/hovering_example, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/hovering_example)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/switch, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/switch)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/switch2, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/switch2)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/pkgconfig/rcomv_uav.pc, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rcomv_uav.pc)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/share/rcomv_uav/cmake/rcomv_uavConfig.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rcomv_uav/cmake/rcomv_uavConfig.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/share/rcomv_uav/cmake/rcomv_uavConfig-version.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rcomv_uav/cmake/rcomv_uavConfig-version.cmake)
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/wmsr_node
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/waypoint_publisher
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/circular_path_publisher
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/waypoint_publisher_file
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/hovering_example
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/switch
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rcomv_uav/switch2
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rcomv_uav.pc
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rcomv_uav/cmake/rcomv_uavConfig.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rcomv_uav/cmake/rcomv_uavConfig-version.cmake
+Already unlinked: {}

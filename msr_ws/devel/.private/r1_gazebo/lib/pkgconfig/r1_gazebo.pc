@@ -1,0 +1,8 @@
+prefix=/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_gazebo
+
+Name: r1_gazebo
+Description: Description of r1_gazebo
+Version: 0.0.0
+Cflags: -I/usr/include/eigen3
+Libs: -L/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_gazebo/lib 
+Requires: rospy roscpp std_msgs geometry_msgs sensor_msgs nav_msgs tf

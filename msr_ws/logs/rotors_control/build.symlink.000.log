@@ -1,0 +1,28 @@
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/libroll_pitch_yawrate_thrust_controller.so
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/liblee_position_controller.so
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rotors_control/lee_position_controller_node
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rotors_control.pc
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rotors_control/cmake/rotors_controlConfig.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rotors_control/cmake/rotors_controlConfig-version.cmake
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_control/lib/liblee_position_controller.so, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/liblee_position_controller.so)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_control/lib/libroll_pitch_yawrate_thrust_controller.so, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/libroll_pitch_yawrate_thrust_controller.so)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_control/lib/rotors_control/lee_position_controller_node, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_control/lee_position_controller_node)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_control/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_control/lib/pkgconfig/rotors_control.pc, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rotors_control.pc)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_control/share/rotors_control/cmake/rotors_controlConfig-version.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_control/cmake/rotors_controlConfig-version.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rotors_control/share/rotors_control/cmake/rotors_controlConfig.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_control/cmake/rotors_controlConfig.cmake)
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/liblee_position_controller.so
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/libroll_pitch_yawrate_thrust_controller.so
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_control/lee_position_controller_node
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rotors_control.pc
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_control/cmake/rotors_controlConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rotors_control/cmake/rotors_controlConfig.cmake
+Already unlinked: {}

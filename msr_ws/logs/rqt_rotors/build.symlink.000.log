@@ -1,0 +1,20 @@
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/bin/hil_plugin
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/rqt_rotors/__init__.py
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rqt_rotors.pc
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rqt_rotors/bin/hil_plugin, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/bin/hil_plugin)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rqt_rotors/lib/python2.7/dist-packages/rqt_rotors/__init__.py, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/rqt_rotors/__init__.py)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rqt_rotors/lib/pkgconfig/rqt_rotors.pc, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rqt_rotors.pc)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake)
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/bin/hil_plugin
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/python2.7/dist-packages/rqt_rotors/__init__.py
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/rqt_rotors.pc
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake
+Already unlinked: {}

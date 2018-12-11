@@ -1,0 +1,1 @@
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_description/share/r1_description/cmake/r1_descriptionConfig-version.cmake

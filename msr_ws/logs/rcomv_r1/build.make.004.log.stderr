@@ -1,0 +1,19 @@
+In file included from [01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:2:0[m[K:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.h:78:8:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ at end of member declaration
+   bool odd_cycle
+[01;32m[K        ^[m[K
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:[m[K In constructor ‘[01m[KInOutLinController::InOutLinController()[m[K’:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:36:3:[m[K [01;31m[Kerror: [m[K‘[01m[Keven_cycle[m[K’ was not declared in this scope
+   even_cycle = false;
+[01;32m[K   ^[m[K
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:[m[K In member function ‘[01m[Kvoid InOutLinController::trajectory_subCallback(const ConstPtr&)[m[K’:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:93:23:[m[K [01;31m[Kerror: [m[K‘[01m[Keven_cycle[m[K’ was not declared in this scope
+   if (endless_flag && even_cycle) {
+[01;32m[K                       ^[m[K
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:[m[K In member function ‘[01m[Kvoid InOutLinController::pubCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:190:9:[m[K [01;31m[Kerror: [m[K‘[01m[Keven_cycle[m[K’ was not declared in this scope
+         even_cycle = ~even_cycle;
+[01;32m[K         ^[m[K
+make[2]: *** [CMakeFiles/InputOutputLin_Controller.dir/src/InputOutputLin_Controller.cpp.o] Error 1
+make[1]: *** [CMakeFiles/InputOutputLin_Controller.dir/all] Error 2
+make: *** [all] Error 2

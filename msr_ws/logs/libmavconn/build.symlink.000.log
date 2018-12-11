@@ -1,0 +1,20 @@
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/libmavconn.so
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/libmavconn.pc
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/libmavconn/lib/libmavconn.so, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/libmavconn.so)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/libmavconn.pc)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake)
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/libmavconn.so
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/libmavconn.pc
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+Already unlinked: {}

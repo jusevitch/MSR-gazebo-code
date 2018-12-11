@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rqt_rotors/setup.sh

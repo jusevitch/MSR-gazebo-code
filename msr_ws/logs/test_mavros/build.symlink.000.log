@@ -1,0 +1,20 @@
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/libmavros_sitl_test.so
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/test_mavros/sitl_test_node
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/test_mavros.pc
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/test_mavros/cmake/test_mavrosConfig.cmake
+Symlinking /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/test_mavros/lib/libmavros_sitl_test.so, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/libmavros_sitl_test.so)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/test_mavros/lib/test_mavros/sitl_test_node, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/test_mavros/sitl_test_node)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/test_mavros/lib/pkgconfig/test_mavros.pc, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/test_mavros.pc)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/test_mavros/cmake/test_mavrosConfig.cmake)
+Cleaning: (/home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig-version.cmake, /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake)
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/libmavros_sitl_test.so
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/test_mavros/sitl_test_node
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/test_mavros.pc
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/test_mavros/cmake/test_mavrosConfig.cmake
+Already unlinked: {}
+Unlinking: /home/dasc/ruilin_ws/MSR-gazebo-code/msr_ws/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake
+Already unlinked: {}

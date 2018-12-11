@@ -1,0 +1,1 @@
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/srv/__init__.py

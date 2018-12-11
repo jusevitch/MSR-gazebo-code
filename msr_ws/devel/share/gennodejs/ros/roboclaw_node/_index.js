@@ -1,0 +1,1 @@
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/roboclaw_node/share/gennodejs/ros/roboclaw_node/_index.js

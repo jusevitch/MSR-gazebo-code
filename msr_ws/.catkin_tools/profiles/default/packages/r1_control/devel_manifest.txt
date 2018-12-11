@@ -1,0 +1,4 @@
+aion_r1/r1_control
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_control/lib/pkgconfig/r1_control.pc /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/lib/pkgconfig/r1_control.pc
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_control/share/r1_control/cmake/r1_controlConfig-version.cmake /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/r1_control/cmake/r1_controlConfig-version.cmake
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_control/share/r1_control/cmake/r1_controlConfig.cmake /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/share/r1_control/cmake/r1_controlConfig.cmake

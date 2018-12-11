@@ -1,0 +1,8 @@
+prefix=/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install
+
+Name: rcomv_r1
+Description: Description of rcomv_r1
+Version: 0.0.0
+Cflags: -I/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install/include -I/usr/include/eigen3
+Libs: -L/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install/lib 
+Requires: rospy roscpp std_msgs geometry_msgs sensor_msgs nav_msgs tf message_runtime

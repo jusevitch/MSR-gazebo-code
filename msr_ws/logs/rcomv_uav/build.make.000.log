@@ -1,0 +1,118 @@
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target gazebo_msgs_generate_messages_py
+[  0%] Built target gazebo_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target mav_msgs_generate_messages_eus
+[  0%] Built target gazebo_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target gazebo_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target gazebo_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target mav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target mav_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target mav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target wmsr_node[0m
+[35m[1mScanning dependencies of target waypoint_publisher[0m
+[35m[1mScanning dependencies of target waypoint_publisher_file[0m
+[35m[1mScanning dependencies of target circular_path_publisher[0m
+[  7%] [32mBuilding CXX object CMakeFiles/waypoint_publisher.dir/src/waypoint_publisher.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/circular_path_publisher.dir/src/circular_path_publisher.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/waypoint_publisher_file.dir/src/waypoint_publisher_file.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/wmsr_node.dir/src/wmsr_node.cpp.o[0m
+[35m[1mScanning dependencies of target switch[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/switch.dir/src/Switch.cpp.o[0m
+[35m[1mScanning dependencies of target hovering_example[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/hovering_example.dir/src/hovering_example.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/waypoint_publisher[0m
+[35m[1mScanning dependencies of target switch2[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/switch2.dir/src/Switch2.cpp.o[0m
+[ 64%] [32m[1mLinking CXX executable /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/circular_path_publisher[0m
+[ 64%] Built target waypoint_publisher
+[ 71%] [32m[1mLinking CXX executable /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/waypoint_publisher_file[0m
+[ 71%] Built target circular_path_publisher
+[ 71%] Built target waypoint_publisher_file
+[ 78%] [32m[1mLinking CXX executable /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/wmsr_node[0m
+[ 85%] [32m[1mLinking CXX executable /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/switch[0m
+[ 85%] Built target wmsr_node
+[ 85%] Built target switch
+[ 92%] [32m[1mLinking CXX executable /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/switch2[0m
+[ 92%] Built target switch2
+[100%] [32m[1mLinking CXX executable /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_uav/lib/rcomv_uav/hovering_example[0m
+[100%] Built target hovering_example

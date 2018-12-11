@@ -1,0 +1,35 @@
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:[m[K In constructor ‘[01m[KInOutLinController::InOutLinController()[m[K’:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:35:59:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Kros::NodeHandle::param(const char [8], bool&, bool)[m[K’
+   nh_private_.param<double>("endless", endless_flag, false);
+[01;32m[K                                                           ^[m[K
+In file included from [01m[K/opt/ros/kinetic/include/ros/ros.h:45:0[m[K,
+                 from [01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.h:5[m[K,
+                 from [01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:2[m[K:
+[01m[K/opt/ros/kinetic/include/ros/node_handle.h:2120:8:[m[K [01;36m[Knote: [m[Kcandidate: template<class T> bool ros::NodeHandle::param(const string&, T&, const T&) const
+   bool param(const std::string& param_name, T& param_val, const T& default_val) const
+[01;32m[K        ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/node_handle.h:2120:8:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:35:40:[m[K [01;36m[Knote: [m[K  cannot convert ‘[01m[K((InOutLinController*)this)->InOutLinController::endless_flag[m[K’ (type ‘[01m[Kbool[m[K’) to type ‘[01m[Kdouble&[m[K’
+   nh_private_.param<double>("endless", endless_flag, false);
+[01;32m[K                                        ^[m[K
+In file included from [01m[K/opt/ros/kinetic/include/ros/ros.h:45:0[m[K,
+                 from [01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.h:5[m[K,
+                 from [01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:2[m[K:
+[01m[K/opt/ros/kinetic/include/ros/node_handle.h:2153:5:[m[K [01;36m[Knote: [m[Kcandidate: template<class T> T ros::NodeHandle::param(const string&, const T&)
+   T param(const std::string& param_name, const T& default_val)
+[01;32m[K     ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/node_handle.h:2153:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:35:59:[m[K [01;36m[Knote: [m[K  candidate expects 2 arguments, 3 provided
+   nh_private_.param<double>("endless", endless_flag, false);
+[01;32m[K                                                           ^[m[K
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:[m[K In member function ‘[01m[Kvoid InOutLinController::pubCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:178:21:[m[K [01;31m[Kerror: [m[K‘[01m[Kendless[m[K’ was not declared in this scope
+       if (t > T && !endless) {
+[01;32m[K                     ^[m[K
+[01m[K/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src/RCOMV/rcomv_r1/src/InputOutputLin_Controller.cpp:182:20:[m[K [01;31m[Kerror: [m[K‘[01m[Kendless[m[K’ was not declared in this scope
+       if (t > T && endless) {
+[01;32m[K                    ^[m[K
+make[2]: *** [CMakeFiles/InputOutputLin_Controller.dir/src/InputOutputLin_Controller.cpp.o] Error 1
+make[1]: *** [CMakeFiles/InputOutputLin_Controller.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

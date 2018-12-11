@@ -1,0 +1,8 @@
+prefix=/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_control
+
+Name: r1_control
+Description: Description of r1_control
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/r1_control/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_r1/share/gennodejs/ros/rcomv_r1/msg/_index.js

@@ -1,0 +1,1 @@
+/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel/.private/rcomv_r1/share/common-lisp/ros/rcomv_r1/msg/_package_ParametricPath.lisp

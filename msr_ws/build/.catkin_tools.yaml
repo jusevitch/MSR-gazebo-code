@@ -1,0 +1,6 @@
+devel_space: /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/devel
+install: false
+install_space: /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install
+profile: default
+source_space: /home/dasc/Ruilin/MSR-gazebo-code/msr_ws/src
+workspace: /home/dasc/Ruilin/MSR-gazebo-code/msr_ws

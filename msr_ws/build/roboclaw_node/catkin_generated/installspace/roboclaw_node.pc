@@ -1,0 +1,8 @@
+prefix=/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install
+
+Name: roboclaw_node
+Description: Description of roboclaw_node
+Version: 0.0.1
+Cflags: -I/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install/include
+Libs: -L/home/dasc/Ruilin/MSR-gazebo-code/msr_ws/install/lib 
+Requires: geometry_msgs nav_msgs rospy std_msgs tf message_runtime
