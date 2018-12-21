@@ -36,12 +36,14 @@ Three examples of WMSR simulation for UAVs and R1:
   2. Launch 15 R1s to form a static formation in a basic world, with the presence of physical misbehaving agents:
   
   ```
-  roslaunch  rcomv_r1 StaticFormation_15agents.launch
+  $ roslaunch  rcomv_r1 StaticFormation_15agents.launch
   ```
   
   3. Launch 8 R1s to track a circular trajectory as a formation, with the presence of cyber misbehaving agents:
   
   ```
-  roslaunch rcomv_r1 circleTraj_circleFormation_8agents_smallWorld.launch
+  $ roslaunch rcomv_r1 circleTraj_circleFormation_8agents_smallWorld.launch
   ```
+  
+  More ros launch files are available under the launch folders of each pacakge.
   
