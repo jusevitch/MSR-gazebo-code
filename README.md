@@ -45,5 +45,5 @@ Three examples of WMSR simulation for UAVs and R1:
   $ roslaunch rcomv_r1 circleTraj_circleFormation_8agents_smallWorld.launch
   ```
   
-  More ros launch files are available under the launch folders of each pacakge.
+  More ros launch files are available under the launch folders of each package.
   
