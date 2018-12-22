@@ -27,7 +27,7 @@ Please contact them with more questions.
 
 Three examples of WMSR simulation for UAVs and R1:
 
-  1. Launch 15 UAVs to form a static formation in a world with buidlings, with the presence of physical misbehaving agents:
+  1. Launch 15 UAVs to form a static formation in a world with buildings, with the presence of physical misbehaving agents:
   
   ```
   $ roslaunch rcomv_uav StaticFormation_15agents_BuildingWorld.launch
